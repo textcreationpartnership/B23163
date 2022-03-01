@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To both Houses of Parliament Friends here is a few things for you to take into consideration.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23163</idno>
+            <idno type="STC">Wing F1952</idno>
+            <idno type="EEBO-CITATION">09822437</idno>
+            <idno type="OCLC">ocm 09822437</idno>
+            <idno type="VID">204512</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204512)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1357:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To both Houses of Parliament Friends here is a few things for you to take into consideration.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: G.F.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204512:1" rendition="simple:additions"/>
+            <head>
+               <hi>To both Houſes of Par<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iament.</hi> Friends, here is a few things for you to take into conſi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ration.</head>
+            <p n="1">I IN Righteouſneſs and Truth dwell, for that preſerves both Go<g ref="char:EOLhyphen"/>vernors and Government, and People in Peace</p>
+            <p n="2">II Let no man that's a Curſer, a Swearer, a Drunkard, hea<g ref="char:EOLhyphen"/>dy, high minded, furious, raſh, covetous, and loves gifts and rewards, and reſpects perſons, bear Office and Rule; for ſuch will not be like meek <hi>Moſes,</hi> but will bring the wrath of God both upon people and Magiſtrates as in former Ages hath been ſeen; but ſet up ſuch as loves mercy, and do juſtly, walks humbly with God, and hates cove<g ref="char:EOLhyphen"/>touſneſs, <hi>Mica</hi> 6. ſuch God requires, and ſuch as doth not reſpect mens perſons, and are not convinced of the Law as tranſgreſſors, <hi>Jam.</hi> 2.5. And theſe will be to the praiſe of God, of Government, and Go<g ref="char:EOLhyphen"/>vernors, and theſe differ from <hi>Pharoah, Herod,</hi> and <hi>Nebuchadnezzar,</hi> that knew not the Kingdom of the moſt High to rule in ſons of men; therefore to the witneſs of God in you come down to, and conſider of theſe things, that the Nations and Dominions may be ruled as a Fa<g ref="char:EOLhyphen"/>mily.</p>
+            <p n="3">III. And let no one be put to death for Cattel, or Money, or any ſuch outward things, for by the Law of God they was to reſtore four<g ref="char:EOLhyphen"/>fold, and if they had it not, to be ſold for their theft; and ſo let them reſtore; and the Apoſtle ſaith in the Goſpel, <hi>Let him that ſtole ſteal no more, but labor in the thing that's good, ſo let him live that he may repent:</hi> Theſe things lay upon me to write to you; and let no man be impriſo<g ref="char:EOLhyphen"/>ned or perſecuted becauſe that for conſcience ſake they cannot ſwear, <hi>Mat.</hi> 5. but obeys Chriſts Commands, and the Apoſtles Doctrine that ſaith, <hi>Swear not at all, leſt they ſhould fall into condemnation of the Devil, and evil,</hi> Jam. 5. but ſpeaks Truth, and doth Truth and Juſtice at Yea and Nay in any Places they are put in, or Court, according to Chriſt and the Apoſtles Commands, who is our Lord and Maſter.</p>
+            <p n="4">IV. And let none be perſecuted becauſe they cannot for conſcience ſake towards God, put off their Hats, and reſpect mens perſons, at which many hath been impriſoned and fined, which hath been like the Phariſees, a mark of unbelievers, that be from the witneſs in themſelves, <hi>John</hi> 5. ſuch as ſeeks the Honor that's from above only, that will never ſtain, we would have all to be cloathed with that, and honor all men in the Lord, and have all men in eſteem, and ſay that they that Rule well in Truth, in Juſtice, and in Righteouſneſs, are worthy of double honor; for every one that hath murther in his heart, may give honor with the Hat deceitfully.</p>
+            <p n="5">V. And let none be perſecuted for not maintaining a Miniſtry that they know in their Conſcience is not of God, which deſtroys both E<g ref="char:EOLhyphen"/>dification and Comfort, quencheth the Spirit, and limiteth the holy One, and deſpiſeth Propheſying; that is, if any thing be revealed to another that ſits by, let the firſt hold his peace; this was order in the true Church; for ye may all propheſie one by one, and this is accor<g ref="char:EOLhyphen"/>ding to the Apoſtles Doctrine (which is diſorder among the contrary) <hi>Cor.</hi> 1.14 and <hi>Peter</hi> ſaid, <hi>Acts</hi> the ſecond and <hi>Joel</hi> 2.) that the Lord would powr out his Spirit upon all fleſh, and his ſons and his daugh<g ref="char:EOLhyphen"/>ters ſhould propheſie, which many witneſs, Glory and honor be to the Lord God for ever. And meek <hi>Moſes</hi> ſaid, he would that all the Lords people were Prophets, and ſtopt and rebuked him that complai<g ref="char:EOLhyphen"/>ned of them, <hi>Numbers</hi> 11.29. verſe.</p>
+            <p n="6">VI. And let none be perſecuted and impriſoned for warning Drun<g ref="char:EOLhyphen"/>kards, Curſers, Cheaters, Fighters, and Quarrellers to repent, in Streets, Markets, Cities, and Towns, and to tell them that they be out of the Life of Chriſt and the Apoſtles, and ſhame their profeſſion: which Magiſtrates that be faithful and fearing God ſhould have kept down theſe things, and not have turned their Sword upon the Righ<g ref="char:EOLhyphen"/>teous, and men that hath reproved ſin in their Gates hath been to them a Prey.</p>
+            <p>Conſider theſe things, for it is your time now, and conſider them in your time, that to the Lord God you be faithful and valiant for his Truth upon Earth, keeping to the Light that ſhines in your Hearts that gives the knowledg of it, 1 <hi>Cor</hi> 2.4. and the Truth in the inward parts which is the ſtay of the mind, and word in the heart which is to be obeyed and done, in which is the Wiſdom that's pure, and from above, <hi>Rom.</hi> 10. and this is th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ingrafted word which is able to ſave the ſoul which is immortal, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd bring it up to God from whence it came, <hi>Jam.</hi> 1.21. and this w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be alwaies with you taking heed to it, in Counſel, Wiſdom and Ju<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gment, and it will ſoften, and it will harden if it be not obeyed, <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d they that do not obey it, hurt their own ſouls, and they canno<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay by the teſtimony of the ingrafted Word that their ſouls are ſave; and let all your Laws be drawn up into a ſhort volume that every<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne in the Nation may know them, and the end of them, that they ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not diſtract people about Opinions of them, but that all may know <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e full Law and its end; for many men not knowing of them puts i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to others to do for them, not knowing them themſelves, and ſo come to be overthrown and undone and great charges, which if things were <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hort, it would prevent this, that every one might know it.</p>
+            <p>And let all Writs, Indictme<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, Warrants and Mittimuſſes, have no more in them than can juſtly <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e charged upon people, and that's the way to keep things ſweet and wholſom; and if thoſe things were loo<g ref="char:EOLhyphen"/>ked into you would ſee abund<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce more in them than needs be put in; which grives the hearts of the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imple and righteous.</p>
+            <p>And let none be perſecute<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about the word <hi>Thou</hi> to a particular perſon, as many have been b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them that takes more honor and wor<g ref="char:EOLhyphen"/>ſhip to themſelves than they g<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e to God, who ſaith <hi>Thou</hi> and <hi>Thee</hi> to God.</p>
+            <p>And let no Priſoners lie lon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Goal, but let them come ſpeedily to tryal, for they learn badneſs <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne of another, and let none keep Goals but ſober men that they may b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> patterns and examples of good to Pri<g ref="char:EOLhyphen"/>ſoners.</p>
+            <p>And let none keep Ale-houſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Taverns but wholſom people, and ſuch as fears God, and are able to lodg Travellers, that there may be no bad houſes to nouriſh wick<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dneſs, which grieves the Souls of the Righteous.</p>
+            <p>And let all things be done i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Love, that keeps down the Spirit of Strife, where the vain gloryi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g is; and mind the Law of God and the Goſpel, and let your actions be accordingly, that all your Dominions may be as a Family, and rul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in mercy, Truth and Righteouſneſs, and that eſtabliſhes Rulers an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> People in Peace.</p>
+            <p>And let no one be perſecut<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d about Church-worſhip, and Religion; for Chriſt rebuked Perſecutor, and ſuch as would revenge, and told them that he came to ſave mens lives; and the Apoſtles weapons was not carnal but ſpiritual, that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey wraſtled with about Religion; Now mind them that wraſtle with f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſh and blood, whether theſe be ſpiritual weaponed men as was the Apo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle and have the mind of Chriſt.</p>
+            <p>Now ſuch as will invent Forms and Worſhips, and ſet them up, and compel others to bow unto t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em, mind and conſider, and take heed of ſuch and that; for Chriſt h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th ſhewed how people may worſhip God, and in what, <hi>John</hi> 4.</p>
+            <p>And they that fears the Lord, and meets often together, and ſpeaks often one to another, which are his Jewels <hi>Malachy</hi> 3. be tender to ſuch as you tender your ſouls, for the Lord God hath reproved many for harming his Prophets, <hi>Pſalm</hi> 105.</p>
+            <p>And let no one be perſecuted for worſhiping God in Spirit and Truth; for Chriſt ſaid to the woman of <hi>Samaria,</hi> neither at <hi>Jeruſalem,</hi> nor at this Mountain, but they that worſhip the Father muſt worſhip him in Spirit and in Truth, for he ſeeks ſuch to worſhip him; and the hour was come, and now is.</p>
+            <p>For <hi>Jeruſalem</hi> and the Mountain was places to which they came for to worſhip out of many Nations, and therefore the Jews perſecuted the Chriſtians that came off their Worſhip, and Temple, and Prieſt<g ref="char:EOLhyphen"/>hood, and witneſſed Chriſt the Everlaſting Prieſt-hood, and the one Offering that ended all the other Offerings, and they that received him their bodies was the Temples of God and Chriſt; and all Chriſten<g ref="char:EOLhyphen"/>dom about their Worſhip is on heaps, they not being in the Spirit and the Truth in which is the Unity, in which Spirit and Truth the God of all Truth who is a Spirit is worſhiped.</p>
+            <p>From a lover of your Souls and eternal good, and that Righteouſ<g ref="char:EOLhyphen"/>neſs and Truth may be eſtabliſhed among you.</p>
+            <closer>
+               <signed>
+                  <hi>G F.</hi> a Priſoner in <hi>Lancaſter</hi> Caſtle.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Simmons,</hi> at the Sign of the <hi>Bull</hi> and <hi>Mouth,</hi> neer Alderſgate, 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
